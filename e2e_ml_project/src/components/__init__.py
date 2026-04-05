@@ -1,0 +1,1 @@
+# __init__.py is an important file in Python project structure because it tells Python that the directory containing it should be treated as a package.
